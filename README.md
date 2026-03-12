@@ -9,7 +9,7 @@ The background plasma density follows a smooth spatial profile (cosine/tanh-type
 
 The goal of these tests was to determine whether the imposed density gradient remains stable under the Vlasov evolution.
 
-During testing it was observed that the gradient diffused rapidly at low resolution. After increasing the spatial resolution and strengthening the guide magnetic field, the density profile remains significantly more stable.
+After successive runs, the gradient appears to be stable for a fair amount of simulation time.
 
 ## Running the Simulation
 
