@@ -9,9 +9,14 @@
 *.out
 *.err
 *.log
+slurm-*
 
 # images
 *.png
 
-# slurm files
-slurm-*
+# Jupyter garbage
+.ipynb_checkpoints/
+*.ipynb
+*-checkpoint.*
+Untitled.*
+*.json
