@@ -1,0 +1,66 @@
+{
+ date : Fri Mar  6 13:43:48 2026,
+ use_gpu : 0,
+ num_ranks : 1,
+ nup : 26,
+ nfeuler : 131,
+ nstage_2_fail : 26,
+ nstage_3_fail : 1,
+ stage_2_dt_diff : [ 6.92645, 391.943 ],
+ stage_3_dt_diff : [ 2.49506, 2.49506 ],
+ total_tm : 0.192605,
+ rk3_tm : 0.192597,
+ fluid_em_coupling_tm : 0,
+ init_species_tm : 0,
+ species_rhs_tm : 0,
+ species_coll_mom_tm : 0,
+ species_coll_tm : 0,
+ species_rad_tm : 0,
+ species_lte_tm : 0,
+ species_bc_tm : 0,
+ fluid_species_rhs_tm : 0.0701409,
+ fluid_species_bc_tm : 0.0220589,
+ nmom : 0,
+ mom_tm : 0
+ ndiag : 56,
+ diag_tm : 0.0582276
+ nspecies_omega_cfl : 0,
+ species_omega_cfl_tm : 0
+ nfield_omega_cfl : 0,
+ field_omega_cfl_tm : 0
+ nio : 21,
+ io_tm : 4.33979
+}
+{
+ date : Fri Mar  6 14:34:03 2026,
+ use_gpu : 0,
+ num_ranks : 1,
+ nup : 26,
+ nfeuler : 131,
+ nstage_2_fail : 26,
+ nstage_3_fail : 1,
+ stage_2_dt_diff : [ 6.92645, 391.943 ],
+ stage_3_dt_diff : [ 2.49506, 2.49506 ],
+ total_tm : 0.176859,
+ rk3_tm : 0.176841,
+ fluid_em_coupling_tm : 0,
+ init_species_tm : 0,
+ species_rhs_tm : 0,
+ species_coll_mom_tm : 0,
+ species_coll_tm : 0,
+ species_rad_tm : 0,
+ species_lte_tm : 0,
+ species_bc_tm : 0,
+ fluid_species_rhs_tm : 0.0273404,
+ fluid_species_bc_tm : 0.00102224,
+ nmom : 0,
+ mom_tm : 0
+ ndiag : 56,
+ diag_tm : 0.0641752
+ nspecies_omega_cfl : 0,
+ species_omega_cfl_tm : 0
+ nfield_omega_cfl : 0,
+ field_omega_cfl_tm : 0
+ nio : 21,
+ io_tm : 3.03001
+}

@@ -1,0 +1,17 @@
+# simulation outputs
+*.gkyl
+*.bp
+*.h5
+*.vtk
+*.dat
+
+# logs
+*.out
+*.err
+*.log
+
+# images
+*.png
+
+# slurm files
+slurm-*

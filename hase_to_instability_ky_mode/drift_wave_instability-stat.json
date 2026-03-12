@@ -1,0 +1,33 @@
+{
+ date : Fri Mar  6 15:01:47 2026,
+ use_gpu : 0,
+ num_ranks : 1,
+ nup : 17303,
+ nfeuler : 86512,
+ nstage_2_fail : 17297,
+ nstage_3_fail : 9,
+ stage_2_dt_diff : [ 0.0397457, 40419.1 ],
+ stage_3_dt_diff : [ 0.0284673, 59.6276 ],
+ total_tm : 1223.57,
+ rk3_tm : 1223.56,
+ fluid_em_coupling_tm : 0,
+ init_species_tm : 0,
+ species_rhs_tm : 0,
+ species_coll_mom_tm : 0,
+ species_coll_tm : 0,
+ species_rad_tm : 0,
+ species_lte_tm : 0,
+ species_bc_tm : 0,
+ fluid_species_rhs_tm : 74.5768,
+ fluid_species_bc_tm : 1.75216,
+ nmom : 0,
+ mom_tm : 0
+ ndiag : 34610,
+ diag_tm : 233.057
+ nspecies_omega_cfl : 0,
+ species_omega_cfl_tm : 0
+ nfield_omega_cfl : 0,
+ field_omega_cfl_tm : 0
+ nio : 21,
+ io_tm : 5.99796
+}
