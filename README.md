@@ -28,3 +28,5 @@ https://gkeyll.readthedocs.io
 
 This repository contains only the **input scripts used for the simulation tests**.  
 The solver itself is not included.
+
+The three folders contain Lua input scripts for Gkeyll simulations and Python scripts for visualization; the goal was to start from a 2D2V Vlasov–Maxwell solver benchmark (the Weibel instability) and progressively add the relevant physics to study the fully kinetic drift-wave instability, whose reduced fluid description is captured by the Hasegawa–Wakatani model (also included), with the Python analysis scripts requiring Postgkyl (documentation available at https://gkeyll.readthedocs.io).
