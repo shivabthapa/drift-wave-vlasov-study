@@ -5,7 +5,7 @@ This repository contains a simple kinetic toy model used to test the stability o
 ## Model Description
 
 The setup is intentionally simplified to study gradient stability.  
-The background plasma density follows a smooth spatial profile (cosine/tanh-type gradient), and the electron and ion masses are taken equal (`mi/me = 1`) to keep the computational cost manageable.
+The background plasma density follows a smooth spatial profile (cosine/tanh-type gradient), and the electron and ion masses are taken moderate(`mi/me = 25`) to keep the computational cost manageable.
 
 The goal of these tests was to determine whether the imposed density gradient remains stable under the Vlasov evolution.
 
